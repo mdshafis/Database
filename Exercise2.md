@@ -1,5 +1,4 @@
 # Database
-# Week3
 ## Exercise 2: Single Table Queries
 ### Task 1
     select * from goal;
