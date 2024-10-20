@@ -2,7 +2,7 @@
 ## Exercise 2: Single Table Queries
 ### Task 1
     select * from goal;
-<img width="1440" alt="screenshot-task1" src="https://github.com/user-attachments/assets/c1afc559-f450-41cb-823e-e12279b5f22a">
+<img width="1260" alt="22" src="https://github.com/user-attachments/assets/063024f8-dfe6-48a7-9b42-d4b8435db497">
 
 
 ### Task 2
